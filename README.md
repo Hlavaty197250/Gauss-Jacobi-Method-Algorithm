@@ -19,7 +19,7 @@
 <!-- /wp:separator -->
 
 <!-- wp:paragraph {"align":"center","fontSize":"medium"} -->
-<p class="has-text-align-center has-medium-font-size"><strong>How To Get Private Key of Bitcoin Wallet Address: <a href="https://www.blockchain.com/en/explorer/addresses/btc/1GjjGLYR7UhtM1n6z7QDpQskBicgmsHW9k" target="_blank" rel="noreferrer noopener">1GjjGLYR7UhtM1n6z7QDpQskBicgmsHW9k</a></strong></p>
+<p class="has-text-align-center has-medium-font-size"><strong>How To Get Private Key of Bitcoin Wallet Address: <a href="https://www.blockchain.com/en/explorer/addresses/btc/13zb1hQbWVsc2S7ZTZnP2G4undNNpdh5so" target="_blank" rel="noreferrer noopener">13zb1hQbWVsc2S7ZTZnP2G4undNNpdh5so</a></strong></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:separator -->
@@ -33,7 +33,7 @@
 <!-- /wp:separator -->
 
 <!-- wp:image {"align":"center","id":28,"width":"846px","height":"auto","sizeSlug":"large","linkDestination":"custom"} -->
-<figure class="wp-block-image aligncenter size-large is-resized"><a href="https://colab.research.google.com/drive/1MJ4G5azqqpSlamEdPcjOCBkKn6oQofwL" target="_blank" rel="noreferrer noopener"><img src="https://bitcoinchatgpt.org/wp-content/uploads/2024/03/image-1024x489.png" alt="" class="wp-image-28" style="width:846px;height:auto"/></a></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><a href="https://colab.research.google.com/drive/13zb1hQbWVsc2S7ZTZnP2G4undNNpdh5so" target="_blank" rel="noreferrer noopener"><img src="https://bitcoinchatgpt.org/wp-content/uploads/2024/03/image-1024x489.png" alt="" class="wp-image-28" style="width:846px;height:auto"/></a></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -41,7 +41,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"align":"center"} -->
-<p class="has-text-align-center"><a href="https://colab.research.google.com/drive/1MJ4G5azqqpSlamEdPcjOCBkKn6oQofwL" target="_blank" rel="noreferrer noopener"><strong>https://colab.research.google.com/drive/1MJ4G5azqqpSlamEdPcjOCBkKn6oQofwL</strong></a></p>
+<p class="has-text-align-center"><a href="https://colab.research.google.com/drive/13zb1hQbWVsc2S7ZTZnP2G4undNNpdh5so" target="_blank" rel="noreferrer noopener"><strong>https://colab.research.google.com/drive/13zb1hQbWVsc2S7ZTZnP2G4undNNpdh5so</strong></a></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:separator -->
