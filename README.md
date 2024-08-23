@@ -111,7 +111,7 @@ if __name__ == "__main__":
 <!-- wp:quote -->
 <blockquote class="wp-block-quote"><!-- wp:paragraph -->
 <p></p>
-<!-- /wp:paragraph --><cite>How to create a vulnerable transaction in Bitcoin for the hashed version of the public key Bitcoin HASH160: <strong>ac9ea341afb74843f80205e8c8da0abc822fa5ec</strong></cite></blockquote>
+<!-- /wp:paragraph --><cite>How to create a vulnerable transaction in Bitcoin for the hashed version of the public key Bitcoin HASH160: <strong>20d45a6a762535700ce9e0b216e31994335db8a5</strong></cite></blockquote>
 <!-- /wp:quote -->
 
 <!-- wp:separator -->
@@ -129,20 +129,20 @@ if __name__ == "__main__":
 ....01
 ........0dbc696374c8d7ca61f32710e03aaedcb7a4f2428074814d0e1f4f7f5c1e5935
 ............00000000
-........8b483045
-....0221
-....00
-........a2c992d4262cfb80458a20e546fa8b6d6d480b41d62514eefbeb70fb166de52d
+........8a473044
 ....0220
-........7465c18222eee05d5ac9ee781bf077743eefecb9d5e66db4779eabd4e806397b
+........23e6d45f3a8efb0165ac8b6aee0e2714674c4b254e70adb3cb31a71151ed824f
+....0220
+........50f0d4d2dd070711687f52ae4870428a32e67617bf938b632f6ba4b363403c8b
 ....0141
-0494ff933da0498859959225ed6a50d709a4d9c678705d72e9202a4852c8084d85ea3498b0b3f006fcab64f143cf57dfcedb4387f229139d421c575577de6d37bc
+0478d430274f8c5ec1321338151e9f27f4c676a008bdf8638d07c0b6be9ab35c71a1518063243acd4dfe96b66e3f2ec8013c8e072cd09b3834a19f81f659cc3455
 ....ffffffff
 01
 ....d204000000000000
 ........1976
 ............a914
-........ac9ea341afb74843f80205e8c8da0abc822fa5ec
+........20d45a6a762535700ce9e0b216e31994335db8a5
+
 ....88ac
 00000000</code></pre>
 <!-- /wp:code -->
@@ -200,13 +200,13 @@ if __name__ == "__main__":
 <!-- wp:code -->
 <pre class="wp-block-code"><code>============================= KEYFOUND.privkey =============================
 
-Private Key HEX: 0xb09c765fa3dc6ad138a8d0da17cd94306fbc32acb3d67bc093936861ccc48769
+Private Key HEX: 
 
-Private Key WIF: 5KA4spokBSZ7d5QpcuJ3eTDhNJUhfJoQAUovffQWBym3LP3CKTz
+Private Key WIF: 
 
-Bitcoin Address: 1GjjGLYR7UhtM1n6z7QDpQskBicgmsHW9k
+Bitcoin Address: 
 
-Balance: 500.09702252 BTC
+Balance: 
 
 ============================= KEYFOUND.privkey =============================</code></pre>
 <!-- /wp:code -->
@@ -216,7 +216,7 @@ Balance: 500.09702252 BTC
 <!-- /wp:separator -->
 
 <!-- wp:paragraph {"align":"center","fontSize":"medium"} -->
-<p class="has-text-align-center has-medium-font-size"><strong>How To Get Private Key of Bitcoin Wallet Address: <a href="https://www.blockchain.com/en/explorer/addresses/btc/1JwSSubhmg6iPtRjtyqhUYYH7bZg3Lfy1T" target="_blank" rel="noreferrer noopener">1JwSSubhmg6iPtRjtyqhUYYH7bZg3Lfy1T</a></strong></p>
+<p class="has-text-align-center has-medium-font-size"><strong>How To Get Private Key of Bitcoin Wallet Address: <a href="https://www.blockchain.com/en/explorer/addresses/btc/13zb1hQbWVsc2S7ZTZnP2G4undNNpdh5so" target="_blank" rel="noreferrer noopener">13zb1hQbWVsc2S7ZTZnP2G4undNNpdh5so</a></strong></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:separator -->
@@ -254,7 +254,7 @@ if __name__ == "__main__":
 <!-- wp:quote -->
 <blockquote class="wp-block-quote"><!-- wp:paragraph -->
 <p></p>
-<!-- /wp:paragraph --><cite>How to create a vulnerable transaction in Bitcoin for the hashed version of the public key Bitcoin HASH160: <strong>c4c5d791fcb4654a1ef5e03fe0ad3d9c598f9827</strong></cite></blockquote>
+<!-- /wp:paragraph --><cite>How to create a vulnerable transaction in Bitcoin for the hashed version of the public key Bitcoin HASH160: <strong>20d45a6a762535700ce9e0b216e31994335db8a5</strong></cite></blockquote>
 <!-- /wp:quote -->
 
 <!-- wp:separator -->
@@ -284,7 +284,8 @@ if __name__ == "__main__":
 ....d204000000000000
 ........1976
 ............a914
-........c4c5d791fcb4654a1ef5e03fe0ad3d9c598f9827
+........20d45a6a762535700ce9e0b216e31994335db8a5
+
 ....88ac
 00000000</code></pre>
 <!-- /wp:code -->
@@ -342,13 +343,13 @@ if __name__ == "__main__":
 <!-- wp:code -->
 <pre class="wp-block-code"><code>============================= KEYFOUND.privkey =============================
 
-Private Key HEX: 0xc4bbcb1fbec99d65bf59d85c8cb62ee2db963f0fe106f483d9afa73bd4e39a8a
+Private Key HEX: 
 
-Private Key WIF: 5KJvsngHeMpm884wtkJNzQGaCErckhHJBGFsvd3VyK5qMZXj3hS
+Private Key WIF: 
 
-Bitcoin Address: 1JwSSubhmg6iPtRjtyqhUYYH7bZg3Lfy1T
+Bitcoin Address: 
 
-Balance: 15.94702373 BTC
+Balance: 
 
 ============================= KEYFOUND.privkey =============================</code></pre>
 <!-- /wp:code -->
